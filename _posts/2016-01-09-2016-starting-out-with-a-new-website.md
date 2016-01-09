@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Michael Lagman photography specializing in Weddings, Families and senior photography in San Diego'
-datePublished: '2016-01-09T19:31:44.627Z'
-dateModified: '2016-01-09T16:51:44.758Z'
+datePublished: '2016-01-09T19:32:22.269Z'
+dateModified: '2016-01-09T19:31:44.627Z'
 title: 2016 Starting out with a new website
 author: []
 authors: []
