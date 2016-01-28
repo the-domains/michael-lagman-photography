@@ -1,29 +1,41 @@
-name: Michael Lagman Photography
-favicon: null
-layout_spectrum: 0.9417344168759882
-typography_spectrum: 0.3543416664469987
 title: 'Wedding | Family | Senior photography in San Diego '
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.1443501419853419
+  brandStrength: 0.2379162
+  lightness: 0.5340874143876135
+  brandColors:
+    - '#030303'
+    - '#D8D8D9'
+    - '#88A254'
+    - '#FFFFFF'
+    - '#C6A499'
+  rhythmicContrast: 0.8225703432690352
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Michael Lagman Photography
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.11008942942135036
-  lightness: 0.5340874143876135
-  saturation: 0.1443501419853419
-  rhythmicContrast: 0.8225703432690352
-purpose: []
+typography_spectrum: 0.3543416664469987
+layout_spectrum: 0.9417344168759882
