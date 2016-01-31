@@ -17,8 +17,8 @@ keywords:
   - intimate
   - wanted
 description: "Both Janelle and Desiree wanted to have a beach wedding and wanted it to be unique and intimate. The beach was Calumet; the weather wasn't overly hot like the weekend before, and you just couldn't pick a more beautiful day for Janelle and Desiree!"
-datePublished: '2016-01-28T18:04:07.651Z'
-dateModified: '2016-01-10T00:21:58.431Z'
+datePublished: '2016-01-31T16:11:37.836Z'
+dateModified: '2016-01-31T16:01:29.420Z'
 author: []
 related: []
 app_links: []
