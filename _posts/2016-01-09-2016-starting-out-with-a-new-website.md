@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
-description: 'Michael Lagman photography specializing in Weddings, Families and senior photography in San Diego'
-datePublished: '2016-01-10T00:27:08.380Z'
-dateModified: '2016-01-10T00:22:20.201Z'
+description: "Starting out the New Year with a new website!\_ I will start moving my website over and add new content"
+datePublished: '2016-03-11T02:59:27.651Z'
+dateModified: '2016-03-11T02:59:05.131Z'
 title: 2016 Starting out with a new website
 author: []
 sourcePath: _posts/2016-01-09-2016-starting-out-with-a-new-website.md
